@@ -37,13 +37,14 @@ BSIT student at Bulacan State University (Bustos Campus) focusing on web and mob
 
 * **Frontend:** Next.js, React.js, JavaScript (ES6+), Tailwind CSS, HTML5, CSS3
 * **Backend & Database:** Node.js, Next.js API Routes, Supabase, PostgreSQL, MySQL, Firebase Firestore
-* **Tools & Game Engines:** Git, GitHub, Unity, Figma, NetBeans, Vscode
+* **Tools & Game Engines:** Git, GitHub, Unity, Figma, NetBeans, Visual Studio Code
 
 ---
 
 ### Certifications & Seminars
 
-* **HTML Essentials** — Cisco Networking Academy / DICT-ITU DTC (2025)
+* **HTML Essentials** — Cisco Networking Academy / DICT-ITU DTC (2026)
+* **3rd ASICS Summit: Tools of Tomorrow** — BulSU Bustos Campus (2025)
 * **Getting Started with Cisco Packet Tracer** — Cisco Networking Academy (2025)
 * **Azure AI Foundry & Retrieval Augmented Generation Seminar** — BulSU Bustos Campus (2025)
 * **2nd ASICS Summit: ReimAgine Tomorrow** — BulSU Bustos Campus (2025)
